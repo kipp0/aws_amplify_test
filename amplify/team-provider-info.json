@@ -1,0 +1,15 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-cadeliveries-dev-184556-authRole",
+      "UnauthRoleArn": "arn:aws:iam::384726748334:role/amplify-cadeliveries-dev-184556-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::384726748334:role/amplify-cadeliveries-dev-184556-authRole",
+      "Region": "us-east-1",
+      "DeploymentBucketName": "amplify-cadeliveries-dev-184556-deployment",
+      "UnauthRoleName": "amplify-cadeliveries-dev-184556-unauthRole",
+      "StackName": "amplify-cadeliveries-dev-184556",
+      "StackId": "arn:aws:cloudformation:us-east-1:384726748334:stack/amplify-cadeliveries-dev-184556/e4723dc0-048f-11ed-a33c-1247b67976eb",
+      "AmplifyAppId": "d1lqr1l5g1uibi"
+    }
+  }
+}
